@@ -1,0 +1,34 @@
+body{
+    background: rgb(44, 43, 43);
+}
+h1{
+    
+    color:black;
+    background: brown;
+    text-align: center;
+}
+h2{
+    background: gray;
+}
+ul{
+
+    color: grey;
+    background:white;
+}
+p{
+    text-decoration-color: crimson;
+    color: white;
+}
+h4{
+    color:white;
+    background: black;
+    font-size: 20px;
+    text-align: center;
+}
+div{
+    
+    background:rgb(109, 105, 105);
+    border: 1px solid black;
+    width: 35%;
+    
+}
